@@ -1,4 +1,3 @@
-
 #!/bin/bash
 # Counting the number of lines in a list of files
 # function version
